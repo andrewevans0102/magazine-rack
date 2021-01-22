@@ -1,5 +1,7 @@
 # Magazine Rack
 
+![magazine rack](./finished_product.jpg)
+
 This repo has files for my magazine rack project. 
 
 It includes a model file that can be opened with tinkercad as well as some hand drawn dimensions.
